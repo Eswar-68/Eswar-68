@@ -8,8 +8,7 @@ I'm a passionate developer with a keen interest in software development and prob
 
 - **Languages**: Java, Python, C, C++
 - **Web Development**: HTML, CSS, JavaScript
-- **Tools and Technologies**: Git, GitHub, VS Code
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL
 
 ## Projects
 
@@ -17,6 +16,7 @@ Here are a few projects I've been working on:
 
 - **[Stopwatch Application](https://github.com/eswar-68/stopwatch)**: A functional and stylish stopwatch application built with HTML, CSS, and JavaScript.
 - **[Chess Game](https://github.com/eswar-68/chess-game)**: A command-line chess game implemented in Java.
+- **[Snake Game](https://github.com/eswar-68/snake-game)**: A command-line snake game implemented in Java.
 - **[Tic Tac Toe Game](https://github.com/eswar-68/tic-tac-toe)**: A command-line Tic Tac Toe game implemented in Java.
 - **[Google Stock Price Prediction](https://github.com/Eswar-68/NM_GenAI)**: A machine learning project to predict Google stock prices.
 - **[Liver Cancer Prediction](https://github.com/Eswar-68/NM_GenAI)**: A machine learning project to predict liver cancer.
